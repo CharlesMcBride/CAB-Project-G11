@@ -1,0 +1,91 @@
+<!-- /templates/my-form.html-->
+
+<html>
+    <head>
+        <title>Sustainable NJ - Group11</title>
+    </head>
+    <body>
+	    <h3>Sustainable NJ - Group11</h3>
+
+	    <!-- <h4>Example 1 - result table with column headings</h4>
+        <form action="/venue-handler" method="POST">
+            <div>
+                Find all the events at this venue_id
+                <input type="text" name="venue_id">
+            </div>
+                <input type="submit" value="Submit">
+        </form> -->
+
+	    <!-- <h4>Example 2 - result table without column headings</h4>
+        <form action="/query-handler" method="POST">
+            <div>
+		        Enter any PostgreSQL command, terminated with a semicolon
+                <br />
+	            Example query: SELECT * FROM countries;
+		        <input type="text" name="query">
+            </div>
+                <input type="submit" value="Submit">
+        </form> -->       
+     
+        <!-- <h4>Example 1 - result table with column headings</h4>
+        <form action="/municipalities" method="POST">
+            <div>
+                Find all the data at this municipality
+                <input type="text" name="municipality">
+            </div>
+                <input type="submit" value="Submit">
+        </form> -->
+        </form>
+        <form action="/municipality" method="POST" class = "form-inline">
+         <div class = "container">
+            <h2 >Choose County:</h2>
+            <select name="county"   class = " form-control">
+            {% for row in rows %}
+                <OPTION value="{{row.county}}">{{row.county}}</OPTION>';
+            {% endfor %}
+            </SELECT>
+
+            </div>
+            <input type = "submit" value = "Next">       
+         </div>
+        </form>
+
+        <h4>Click here to see how solar effects counties energy data!</h4>
+        <form action="/test" method="POST">
+                <input type="submit" value="Let's Go!">
+        </form>
+
+
+        <h4>Click here to see how the number of EVs relates to energy consumption</h4>
+        <form action="/numEv" method="POST">
+                <input type="submit" value="Let's Go!">
+        </form>
+
+        <h4>Click here to see how the percentage of EVs relates to energy consumption</h4>
+        <form action="/ev_percent" method="POST">
+                <input type="submit" value="Let's Go!">
+        </form>
+
+        <h4>Click here to see how the change in solar usage effects natrual gas usage</h4>
+        <form action="/solarvgas" method="POST">
+                <input type="submit" value="Let's Go!">
+        </form>
+
+        <h4>Click here to see municipalities with the most solar installations</h4>
+        <form action="/mostSolar" method="POST">
+                <input type="submit" value="Let's Go!">
+        </form>
+
+    </body>
+
+    <!-- minimal styling -->
+    <style>
+        form {
+            margin: 1%;
+        }
+
+        div {
+            margin: 1% 0;
+        }
+    </style>
+</html>

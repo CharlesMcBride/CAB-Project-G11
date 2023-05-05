@@ -1,0 +1,32 @@
+<!-- /templates/my-form.html-->
+
+<html>
+    <head>
+        <title>Sustainable NJ - Group11</title>
+    </head>
+    <body>
+	    <h3>Sustainable NJ - Group11</h3>
+        </form>
+        <form action="/query1" method="POST">
+        <p style="font-family:verdana">
+            Choose municipality:
+            <select name="municipality"   class = " form-control">
+                {% for row in rows %}
+                    <OPTION value="{{row.municipality}}">{{row.municipality}}</OPTION>';
+                {% endfor %}
+                </SELECT>
+            </p>
+            <input type="submit" value="See Stats">
+    </body>
+
+    <!-- minimal styling -->
+    <style>
+        form {
+            margin: 1%;
+        }
+
+        div {
+            margin: 1% 0;
+        }
+    </style>
+</html>

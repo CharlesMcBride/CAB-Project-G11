@@ -1,0 +1,9 @@
+drop table SEAT_RESERVATION;
+drop table LEG_INSTANCE;
+drop table AIRPLANE;
+drop table CAN_LAND;
+drop table AIRPLANE_TYPE;
+drop table FARE;
+drop table FLIGHT_LEG;
+drop table FLIGHT;
+drop table AIRPORT;

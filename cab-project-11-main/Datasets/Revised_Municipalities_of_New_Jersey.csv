@@ -1,0 +1,565 @@
+COUNTY_NAME,MUNICIPALITY_NAME
+Atlantic County,Absecon
+Atlantic County,Atlantic City
+Atlantic County,Brigantine
+Atlantic County,Buena Borough
+Atlantic County,Buena Vista Township
+Atlantic County,Corbin City
+Atlantic County,Egg Harbor City
+Atlantic County,Egg Harbor Township
+Atlantic County,Estell Manor
+Atlantic County,Folsom Borough
+Atlantic County,Galloway Township
+Atlantic County,Hamilton Township
+Atlantic County,Hammonton
+Atlantic County,Linwood
+Atlantic County,Longport Borough
+Atlantic County,Margate City
+Atlantic County,Mullica Township
+Atlantic County,Northfield
+Atlantic County,Pleasantville
+Atlantic County,Port Republic
+Atlantic County,Somers Point
+Atlantic County,Ventnor City
+Atlantic County,Weymouth Township
+Bergen County,Allendale Borough
+Bergen County,Alpine Borough
+Bergen County,Bergenfield Borough
+Bergen County,Bogota Borough
+Bergen County,Carlstadt Borough
+Bergen County,Cliffside Park Borough
+Bergen County,Closter Borough
+Bergen County,Cresskill Borough
+Bergen County,Demarest Borough
+Bergen County,Dumont Borough
+Bergen County,East Rutherford Borough
+Bergen County,Edgewater Borough
+Bergen County,Elmwood Park Borough
+Bergen County,Emerson Borough
+Bergen County,Englewood
+Bergen County,Englewood Cliffs Borough
+Bergen County,Fair Lawn Borough
+Bergen County,Fairview Borough
+Bergen County,Fort Lee Borough
+Bergen County,Franklin Lakes Borough
+Bergen County,Garfield
+Bergen County,Glen Rock Borough
+Bergen County,Hackensack
+Bergen County,Harrington Park Borough
+Bergen County,Hasbrouck Heights Borough
+Bergen County,Haworth Borough
+Bergen County,Hillsdale Borough
+Bergen County,Ho-Ho-Kus Borough
+Bergen County,Leonia Borough
+Bergen County,Little Ferry Borough
+Bergen County,Lodi Borough
+Bergen County,Lyndhurst Township
+Bergen County,Mahwah Township
+Bergen County,Maywood Borough
+Bergen County,Midland Park Borough
+Bergen County,Montvale Borough
+Bergen County,Moonachie Borough
+Bergen County,New Milford Borough
+Bergen County,North Arlington Borough
+Bergen County,Northvale Borough
+Bergen County,Norwood Borough
+Bergen County,Oakland Borough
+Bergen County,Old Tappan Borough
+Bergen County,Oradell Borough
+Bergen County,Palisades Park Borough
+Bergen County,Paramus Borough
+Bergen County,Park Ridge Borough
+Bergen County,Ramsey Borough
+Bergen County,Ridgefield Borough
+Bergen County,Ridgefield Park Village
+Bergen County,Ridgewood Village
+Bergen County,River Edge Borough
+Bergen County,River Vale Township
+Bergen County,Rochelle Park Township
+Bergen County,Rockleigh Borough
+Bergen County,Rutherford Borough
+Bergen County,Saddle Brook Township
+Bergen County,Saddle River Borough
+Bergen County,South Hackensack Township
+Bergen County,Teaneck Township
+Bergen County,Tenafly Borough
+Bergen County,Teterboro Borough
+Bergen County,Upper Saddle River Borough
+Bergen County,Waldwick Borough
+Bergen County,Wallington Borough
+Bergen County,Washington Township
+Bergen County,Westwood Borough
+Bergen County,Woodcliff Lake Borough
+Bergen County,Wood-Ridge Borough
+Bergen County,Wyckoff Township
+Burlington County,Bass River Township
+Burlington County,Beverly
+Burlington County,Bordentown
+Burlington County,Bordentown Township
+Burlington County,Burlington
+Burlington County,Burlington Township
+Burlington County,Chesterfield Township
+Burlington County,Cinnaminson Township
+Burlington County,Delanco Township
+Burlington County,Delran Township
+Burlington County,Eastampton Township
+Burlington County,Edgewater Park Township
+Burlington County,Evesham Township
+Burlington County,Fieldsboro Borough
+Burlington County,Florence Township
+Burlington County,Hainesport Township
+Burlington County,Lumberton Township
+Burlington County,Mansfield Township
+Burlington County,Maple Shade Township
+Burlington County,Medford Lakes Borough
+Burlington County,Medford Township
+Burlington County,Moorestown Township
+Burlington County,Mount Holly Township
+Burlington County,Mount Laurel Township
+Burlington County,New Hanover Township
+Burlington County,North Hanover Township
+Burlington County,Palmyra Borough
+Burlington County,Pemberton Borough
+Burlington County,Pemberton Township
+Burlington County,Riverside Township
+Burlington County,Riverton Borough
+Burlington County,Shamong Township
+Burlington County,Southampton Township
+Burlington County,Springfield Township
+Burlington County,Tabernacle Township
+Burlington County,Washington Township
+Burlington County,Westampton Township
+Burlington County,Willingboro Township
+Burlington County,Woodland Township
+Burlington County,Wrightstown Borough
+Camden County,Audubon Borough
+Sussex County,Fredon Township
+Camden County,Audubon Park Borough
+Camden County,Barrington Borough
+Camden County,Bellmawr Borough
+Camden County,Berlin Borough
+Camden County,Berlin Township
+Camden County,Brooklawn Borough
+Camden County,Camden
+Camden County,Cherry Hill Township
+Camden County,Chesilhurst Borough
+Camden County,Clementon Borough
+Camden County,Collingswood Borough
+Camden County,Gibbsboro Borough
+Camden County,Gloucester City
+Camden County,Gloucester Township
+Camden County,Haddon Heights Borough
+Camden County,Haddon Township
+Camden County,Haddonfield Borough
+Camden County,Hi-Nella Borough
+Camden County,Laurel Springs Borough
+Camden County,Lawnside Borough
+Camden County,Lindenwold Borough
+Camden County,Magnolia Borough
+Camden County,Merchantville Borough
+Camden County,Mount Ephraim Borough
+Camden County,Oaklyn Borough
+Camden County,Pennsauken Township
+Camden County,Pine Hill Borough
+Camden County,Runnemede Borough
+Camden County,Somerdale Borough
+Camden County,Stratford Borough
+Camden County,Tavistock Borough
+Camden County,Voorhees Township
+Camden County,Waterford Township
+Camden County,Winslow Township
+Camden County,Woodlynne Borough
+Cape May County,Avalon Borough
+Cape May County,Cape May
+Cape May County,Cape May Point Borough
+Cape May County,Dennis Township
+Cape May County,Lower Township
+Cape May County,Middle Township
+Cape May County,North Wildwood
+Cape May County,Ocean City
+Cape May County,Sea Isle City
+Cape May County,Stone Harbor Borough
+Cape May County,Upper Township
+Cape May County,West Cape May Borough
+Cape May County,West Wildwood Borough
+Cape May County,Wildwood
+Cape May County,Wildwood Crest Borough
+Cape May County,Woodbine Borough
+Cumberland County,Bridgeton
+Cumberland County,Commercial Township
+Cumberland County,Deerfield Township
+Cumberland County,Downe Township
+Cumberland County,Fairfield Township
+Cumberland County,Greenwich Township
+Cumberland County,Hopewell Township
+Cumberland County,Lawrence Township
+Cumberland County,Maurice River Township
+Cumberland County,Millville
+Cumberland County,Shiloh Borough
+Cumberland County,Stow Creek Township
+Cumberland County,Upper Deerfield Township
+Cumberland County,Vineland
+Essex County,Belleville Township
+Essex County,Bloomfield Township
+Essex County,Caldwell Borough
+Essex County,Cedar Grove Township
+Essex County,City of Orange Township
+Essex County,East Orange
+Essex County,Essex Fells Borough
+Essex County,Fairfield Township
+Essex County,Glen Ridge Borough
+Essex County,Irvington Township
+Essex County,Livingston Township
+Essex County,Maplewood Township
+Essex County,Millburn Township
+Essex County,Montclair Township
+Essex County,Newark
+Essex County,North Caldwell Borough
+Essex County,Nutley Township
+Essex County,Roseland Borough
+Essex County,South Orange Village Township
+Essex County,Verona Township
+Essex County,West Caldwell Township
+Essex County,West Orange Township
+Gloucester County,Clayton Borough
+Gloucester County,Deptford Township
+Gloucester County,East Greenwich Township
+Gloucester County,Elk Township
+Gloucester County,Franklin Township
+Gloucester County,Glassboro Borough
+Gloucester County,Greenwich Township
+Gloucester County,Harrison Township
+Gloucester County,Logan Township
+Gloucester County,Mantua Township
+Gloucester County,Monroe Township
+Gloucester County,National Park Borough
+Gloucester County,Newfield Borough
+Gloucester County,Paulsboro Borough
+Gloucester County,Pitman Borough
+Gloucester County,South Harrison Township
+Gloucester County,Swedesboro Borough
+Gloucester County,Washington Township
+Gloucester County,Wenonah Borough
+Gloucester County,West Deptford Township
+Gloucester County,Westville Borough
+Gloucester County,Woodbury
+Gloucester County,Woodbury Heights Borough
+Gloucester County,Woolwich Township
+Hudson County,Bayonne
+Hudson County,East Newark Borough
+Hudson County,Guttenberg
+Hudson County,Harrison
+Hudson County,Hoboken
+Hudson County,Jersey City
+Hudson County,Kearny
+Hudson County,North Bergen Township
+Hudson County,Secaucus
+Hudson County,Union City
+Hudson County,Weehawken Township
+Hudson County,West New York
+Hunterdon County,Alexandria Township
+Hunterdon County,Bethlehem Township
+Hunterdon County,Bloomsbury Borough
+Hunterdon County,Califon Borough
+Hunterdon County,Clinton
+Hunterdon County,Clinton Township
+Hunterdon County,Delaware Township
+Hunterdon County,East Amwell Township
+Hunterdon County,Flemington Borough
+Hunterdon County,Franklin Township
+Hunterdon County,Frenchtown Borough
+Hunterdon County,Glen Gardner Borough
+Hunterdon County,Hampton Borough
+Hunterdon County,High Bridge Borough
+Hunterdon County,Holland Township
+Hunterdon County,Kingwood Township
+Hunterdon County,Lambertville
+Hunterdon County,Lebanon Borough
+Hunterdon County,Lebanon Township
+Hunterdon County,Milford Borough
+Hunterdon County,Raritan Township
+Hunterdon County,Readington Township
+Hunterdon County,Stockton Borough
+Hunterdon County,Tewksbury Township
+Hunterdon County,Union Township
+Hunterdon County,West Amwell Township
+Mercer County,East Windsor Township
+Mercer County,Ewing Township
+Mercer County,Hamilton Township
+Mercer County,Hightstown Borough
+Mercer County,Hopewell Borough
+Mercer County,Hopewell Township
+Mercer County,Lawrence Township
+Mercer County,Pennington Borough
+Mercer County,Princeton
+Mercer County,Robbinsville Township
+Mercer County,Trenton
+Mercer County,West Windsor Township
+Middlesex County,Carteret Borough
+Middlesex County,Cranbury Township
+Middlesex County,Dunellen Borough
+Middlesex County,East Brunswick Township
+Middlesex County,Edison Township
+Middlesex County,Helmetta Borough
+Middlesex County,Highland Park Borough
+Middlesex County,Jamesburg Borough
+Middlesex County,Metuchen Borough
+Middlesex County,Middlesex Borough
+Middlesex County,Milltown Borough
+Middlesex County,Monroe Township
+Middlesex County,New Brunswick
+Middlesex County,North Brunswick Township
+Middlesex County,Old Bridge Township
+Middlesex County,Perth Amboy
+Middlesex County,Piscataway Township
+Middlesex County,Plainsboro Township
+Middlesex County,Sayreville Borough
+Middlesex County,South Amboy
+Middlesex County,South Brunswick Township
+Middlesex County,South Plainfield Borough
+Middlesex County,South River Borough
+Middlesex County,Spotswood Borough
+Middlesex County,Woodbridge Township
+Monmouth County,Aberdeen Township
+Monmouth County,Allenhurst Borough
+Monmouth County,Allentown Borough
+Monmouth County,Asbury Park
+Monmouth County,Atlantic Highlands Borough
+Monmouth County,Avon-by-the-Sea Borough
+Monmouth County,Belmar Borough
+Monmouth County,Bradley Beach Borough
+Monmouth County,Brielle Borough
+Monmouth County,Colts Neck Township
+Monmouth County,Deal Borough
+Monmouth County,Eatontown Borough
+Monmouth County,Englishtown Borough
+Monmouth County,Fair Haven Borough
+Monmouth County,Farmingdale Borough
+Monmouth County,Freehold Borough
+Monmouth County,Freehold Township
+Monmouth County,Hazlet Township
+Monmouth County,Highlands Borough
+Monmouth County,Holmdel Township
+Monmouth County,Howell Township
+Monmouth County,Interlaken Borough
+Monmouth County,Keansburg Borough
+Monmouth County,Keyport Borough
+Monmouth County,Lake Como Borough
+Monmouth County,Little Silver Borough
+Monmouth County,Loch Arbour Village
+Monmouth County,Long Branch
+Monmouth County,Manalapan Township
+Monmouth County,Manasquan Borough
+Monmouth County,Marlboro Township
+Monmouth County,Matawan Borough
+Monmouth County,Middletown Township
+Monmouth County,Millstone Township
+Monmouth County,Monmouth Beach Borough
+Monmouth County,Neptune City Borough
+Monmouth County,Neptune Township
+Monmouth County,Ocean Township
+Monmouth County,Oceanport Borough
+Monmouth County,Red Bank Borough
+Monmouth County,Roosevelt Borough
+Monmouth County,Rumson Borough
+Monmouth County,Sea Bright Borough
+Monmouth County,Sea Girt Borough
+Monmouth County,Shrewsbury Borough
+Monmouth County,Shrewsbury Township
+Monmouth County,Spring Lake Borough
+Monmouth County,Spring Lake Heights Borough
+Monmouth County,Tinton Falls Borough
+Monmouth County,Union Beach Borough
+Monmouth County,Upper Freehold Township
+Monmouth County,Wall Township
+Monmouth County,West Long Branch Borough
+Morris County,Boonton
+Morris County,Boonton Township
+Morris County,Butler Borough
+Morris County,Chatham Borough
+Morris County,Chatham Township
+Morris County,Chester Borough
+Morris County,Chester Township
+Morris County,Denville Township
+Morris County,Dover
+Morris County,East Hanover Township
+Morris County,Florham Park Borough
+Morris County,Hanover Township
+Morris County,Harding Township
+Morris County,Jefferson Township
+Morris County,Kinnelon Borough
+Morris County,Lincoln Park Borough
+Morris County,Long Hill Township
+Morris County,Madison Borough
+Morris County,Mendham Borough
+Morris County,Mendham Township
+Morris County,Mine Hill Township
+Morris County,Montville Township
+Morris County,Morris Plains Borough
+Morris County,Morris Township
+Morris County,Morristown
+Morris County,Mount Arlington Borough
+Morris County,Mount Olive Township
+Morris County,Mountain Lakes Borough
+Morris County,Netcong Borough
+Morris County,Parsippany-Troy Hills Township
+Morris County,Pequannock Township
+Morris County,Randolph Township
+Morris County,Riverdale Borough
+Morris County,Rockaway Borough
+Morris County,Rockaway Township
+Morris County,Roxbury Township
+Morris County,Victory Gardens Borough
+Morris County,Washington Township
+Morris County,Wharton Borough
+Ocean County,Barnegat Light Borough
+Ocean County,Barnegat Township
+Ocean County,Bay Head Borough
+Ocean County,Beach Haven Borough
+Ocean County,Beachwood Borough
+Ocean County,Berkeley Township
+Ocean County,Brick Township
+Ocean County,Eagleswood Township
+Ocean County,Harvey Cedars Borough
+Ocean County,Island Heights Borough
+Ocean County,Jackson Township
+Ocean County,Lacey Township
+Ocean County,Lakehurst Borough
+Ocean County,Lakewood Township
+Ocean County,Lavallette Borough
+Ocean County,Little Egg Harbor Township
+Ocean County,Long Beach Township
+Ocean County,Manchester Township
+Ocean County,Mantoloking Borough
+Ocean County,Ocean Gate Borough
+Ocean County,Ocean Township
+Ocean County,Pine Beach Borough
+Ocean County,Plumsted Township
+Ocean County,Point Pleasant Beach Borough
+Ocean County,Point Pleasant Borough
+Ocean County,Seaside Heights Borough
+Ocean County,Seaside Park Borough
+Ocean County,Ship Bottom Borough
+Ocean County,South Toms River Borough
+Ocean County,Stafford Township
+Ocean County,Surf City Borough
+Ocean County,Toms River Township
+Ocean County,Tuckerton Borough
+Passaic County,Bloomingdale Borough
+Passaic County,Clifton
+Passaic County,Haledon Borough
+Passaic County,Hawthorne Borough
+Passaic County,Little Falls Township
+Passaic County,North Haledon Borough
+Passaic County,Passaic
+Passaic County,Paterson
+Passaic County,Pompton Lakes Borough
+Passaic County,Prospect Park Borough
+Passaic County,Ringwood Borough
+Passaic County,Totowa Borough
+Passaic County,Wanaque Borough
+Passaic County,Wayne Township
+Passaic County,West Milford Township
+Passaic County,Woodland Park Borough
+Salem County,Alloway Township
+Salem County,Carneys Point Township
+Salem County,Elmer Borough
+Salem County,Elsinboro Township
+Salem County,Lower Alloways Creek Township
+Salem County,Mannington Township
+Salem County,Oldmans Township
+Salem County,Penns Grove Borough
+Salem County,Pennsville Township
+Sussex County,Green Township
+Salem County,Pilesgrove Township
+Salem County,Pittsgrove Township
+Salem County,Quinton Township
+Salem County,Salem
+Salem County,Upper Pittsgrove Township
+Salem County,Woodstown Borough
+Somerset County,Bedminster Township
+Somerset County,Bernards Township
+Somerset County,Bernardsville Borough
+Somerset County,Bound Brook Borough
+Somerset County,Branchburg Township
+Somerset County,Bridgewater Township
+Somerset County,Far Hills Borough
+Somerset County,Franklin Township
+Somerset County,Green Brook Township
+Somerset County,Hillsborough Township
+Somerset County,Manville Borough
+Somerset County,Millstone Borough
+Somerset County,Montgomery Township
+Somerset County,North Plainfield Borough
+Somerset County,Peapack-Gladstone Borough
+Somerset County,Raritan Borough
+Somerset County,Rocky Hill Borough
+Somerset County,Somerville Borough
+Somerset County,South Bound Brook Borough
+Somerset County,Warren Township
+Somerset County,Watchung Borough
+Sussex County,Andover Borough
+Sussex County,Andover Township
+Sussex County,Branchville Borough
+Sussex County,Byram Township
+Sussex County,Frankford Township
+Sussex County,Franklin Borough
+Sussex County,Hamburg Borough
+Sussex County,Hampton Township
+Sussex County,Hardyston Township
+Sussex County,Hopatcong Borough
+Sussex County,Lafayette Township
+Sussex County,Montague Township
+Sussex County,Newton
+Sussex County,Ogdensburg Borough
+Sussex County,Sandyston Township
+Sussex County,Sparta Township
+Sussex County,Stanhope Borough
+Sussex County,Stillwater Township
+Sussex County,Sussex Borough
+Sussex County,Vernon Township
+Sussex County,Walpack Township
+Sussex County,Wantage Township
+Union County,Berkeley Heights Township
+Union County,Clark Township
+Union County,Cranford Township
+Union County,Elizabeth
+Union County,Fanwood Borough
+Union County,Garwood Borough
+Union County,Hillside Township
+Union County,Kenilworth Borough
+Union County,Linden
+Union County,Mountainside Borough
+Union County,New Providence Borough
+Union County,Plainfield
+Union County,Rahway
+Union County,Roselle Borough
+Union County,Roselle Park Borough
+Union County,Scotch Plains Township
+Union County,Springfield Township
+Union County,Summit
+Union County,Union Township
+Union County,Westfield
+Union County,Winfield Township
+Warren County,Allamuchy Township
+Warren County,Alpha Borough
+Warren County,Belvidere
+Warren County,Blairstown Township
+Warren County,Franklin Township
+Warren County,Frelinghuysen Township
+Warren County,Greenwich Township
+Warren County,Hackettstown
+Warren County,Hardwick Township
+Warren County,Harmony Township
+Warren County,Hope Township
+Warren County,Independence Township
+Warren County,Knowlton Township
+Warren County,Liberty Township
+Warren County,Lopatcong Township
+Warren County,Mansfield Township
+Warren County,Oxford Township
+Warren County,Phillipsburg
+Warren County,Pohatcong Township
+Warren County,Washington Borough
+Warren County,Washington Township
+Warren County,White Township
